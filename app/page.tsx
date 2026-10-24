@@ -174,11 +174,25 @@ const accomplishments = [
     badge: "🏔️",
   },
   {
+    title: "Mt. Whitney",
+    category: "High-Altitude Trekking",
+    description: "Summit trek of the highest peak in the contiguous United States.",
+    highlight: "14,505 ft · Sierra Nevada Summit",
+    badge: "⛰️",
+  },
+  {
+    title: "Mt. Dana, Yosemite",
+    category: "High-Altitude Trekking",
+    description: "High-altitude climb to the second-highest peak in Yosemite National Park.",
+    highlight: "13,061 ft · Yosemite High Sierra",
+    badge: "🥾",
+  },
+  {
     title: "Half Dome, Yosemite",
     category: "Alpine Hike",
     description: "A challenging hike in Yosemite National Park.",
     highlight: "Cables Route · Yosemite High Sierra",
-    badge: "🥾",
+    badge: "🧗",
   },
 ];
 
