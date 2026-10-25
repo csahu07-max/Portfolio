@@ -123,7 +123,7 @@ export default function PortfolioTest() {
           <a href="#home">Home</a>
           <a href="#skills">Skills</a>
           <a href="#credentials">Credentials</a>
-          <a href="#accomplishments">Accomplishments</a>
+          <a href="#accomplishments">Personal Pursuits</a>
         </nav>
       </header>
 
@@ -213,7 +213,7 @@ export default function PortfolioTest() {
         <div className="section-head">
           <h2><span className="section-icon">◈</span> Personal Accomplishments</h2>
           <p className="section-subhead">
-            Dedicated to endurance running, high-altitude trekking, and community charity events—channeling discipline, perseverance, and passion for the outdoors.
+            Dedicated to endurance running, high-altitude trekking, and community charity events—channeling leadership, resilience, and disciplined perseverance to conquer bold challenges, inspire others, and drive meaningful community impact.
           </p>
         </div>
         <div className="accomplishments-grid">
