@@ -124,13 +124,6 @@ export default function PortfolioTest() {
           <a href="#skills">Skills</a>
           <a href="#credentials">Credentials</a>
           <a href="#accomplishments">Accomplishments</a>
-          <a
-            href="https://portfolio-five-lemon-30vswm0883.vercel.app/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Portfolio &amp; Publications ↗
-          </a>
         </nav>
       </header>
 
