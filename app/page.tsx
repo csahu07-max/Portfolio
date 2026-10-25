@@ -121,7 +121,6 @@ export default function PortfolioTest() {
         <a className="brand" href="#home">Chinmaya Sahu</a>
         <nav aria-label="Main navigation">
           <a href="#home">Home</a>
-          <a href="#about">About</a>
           <a href="#skills">Skills</a>
           <a href="#credentials">Credentials</a>
           <a href="#accomplishments">Accomplishments</a>
